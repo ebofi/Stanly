@@ -4,14 +4,14 @@
 <referenceBlock name="product.info.details">
 <block class="Magento\Catalog\Block\Product\View" name="tab.tab" template="Stanly_incre::extra_tab2.phtml" group="detailed_info" >
 <arguments>
-<argument translate="true" name="title" xsi:type="string">Ingredients</argument>
+<argument translate="true" name="title" xsi:type="string">Custom Block Title</argument>
 </arguments>
 </block>
 </referenceBlock>
 <referenceBlock name="product.info.details">
 <block class="Magento\Catalog\Block\Product\View" name="tab.tab2" template="Stanly_incre::extra_tab.phtml" group="detailed_info" >
 <arguments>
-<argument translate="true" name="title" xsi:type="string">Directions</argument>
+<argument translate="true" name="title" xsi:type="string">Custom Block Title</argument>
 </arguments>
 </block>
 </referenceBlock>
